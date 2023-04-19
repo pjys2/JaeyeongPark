@@ -1,8 +1,24 @@
 ### 안녕하세요 백엔드 개발자를 목표로 하고 있는 박재영입니다.
+<br/>
 
-## 알고리즘 (JAVA)
+## Skill
+frontend 
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjys211)](https://solved.ac/pjys211/)
+backend
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
+
+Database
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+
+CI/CD
+ <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
+ 
+<br/>
 
 ## 프로젝트 
 1. [Opick Me](https://github.com/JaeyeongPark/OpickMe)
@@ -23,4 +39,12 @@
  * 프로젝트 기간 : 2022.10.10 ~ 2022.11.25
  * 인원 : 6명
  * 활용기술 : Unity, C#, React, SpringBoot, MySQL
+
+-------------------
+
+<br/>
+
+## 알고리즘 (JAVA)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjys211)](https://solved.ac/pjys211/)
 
