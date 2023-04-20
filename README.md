@@ -21,6 +21,9 @@ CI/CD
 <br/>
 
 ## 프로젝트 
+
+### 팀프로젝트
+
 1. [Opick Me](https://github.com/JaeyeongPark/OpickMe)
  * 개요 : STT를 활용한 오픽 연습 사이트
  * 프로젝트 기간 : 2022.07.05 ~ 2022.08.19
