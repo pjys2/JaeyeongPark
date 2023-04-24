@@ -37,7 +37,7 @@ CI/CD
  * 활용기술 : SpringBoot, Java, Vue, Solidity, MySQL
 
 -------------------
-3. [미리보개]()
+3. [미리보개](https://github.com/JaeyeongPark/miribogae)
  * 개요 : 웹, 유니티 기반 예비반려인 교육 서비스
  * 프로젝트 기간 : 2022.10.10 ~ 2022.11.25
  * 인원 : 6명
@@ -47,7 +47,7 @@ CI/CD
 
 <br/>
 
-## 알고리즘 (JAVA)
+## 알고리즘
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjys211)](https://solved.ac/pjys211/)
 
